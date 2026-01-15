@@ -17,7 +17,7 @@ from telegram.ext import (
 # =========================
 # 🔐 BOT TOKEN (PASTE HERE)
 # =========================
-BOT_TOKEN = "PASTE_YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "7352884661:AAFIvyPBsVA8U_VyJYfSWwOXx3MuhvvSpuw"
 
 # =========================
 # Settings
